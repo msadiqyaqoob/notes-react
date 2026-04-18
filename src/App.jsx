@@ -73,7 +73,7 @@ const App = () => {
 
               {/* TEXT */}
               <div className="absolute inset-0 top-8 p-2 flex flex-col gap-1 overflow-hidden">
-                <h3 className="font-bold text-black text-sm wrap-break-word">
+                <h3 className="font-bold text-black text-sm wrap-break-word ">
                   {elem.title}
                 </h3>
 
